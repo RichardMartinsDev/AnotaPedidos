@@ -1,0 +1,8 @@
+C:\Pizza Order\bin\Release\Pizza Order.exe
+C:\Pizza Order\bin\Release\Pizza Order.pdb
+C:\Pizza Order\obj\Release\ResolveAssemblyReference.cache
+C:\Pizza Order\obj\Release\Pizza_Order.frmPizza.resources
+C:\Pizza Order\obj\Release\Pizza_Order.Properties.Resources.resources
+C:\Pizza Order\obj\Release\Pizza Order.csproj.GenerateResource.Cache
+C:\Pizza Order\obj\Release\Pizza Order.exe
+C:\Pizza Order\obj\Release\Pizza Order.pdb

@@ -1,0 +1,19 @@
+C:\Pizza Order\bin\Debug\Pizza Order.exe
+C:\Pizza Order\bin\Debug\Pizza Order.pdb
+C:\Pizza Order\obj\Debug\ResolveAssemblyReference.cache
+C:\Pizza Order\obj\Debug\Pizza_Order.frmPizza.resources
+C:\Pizza Order\obj\Debug\Pizza_Order.Properties.Resources.resources
+C:\Pizza Order\obj\Debug\Pizza Order.csproj.GenerateResource.Cache
+C:\Pizza Order\obj\Debug\Pizza Order.exe
+C:\Pizza Order\obj\Debug\Pizza Order.pdb
+C:\Users\richard.martins\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Pizza Order\obj\Debug\Pizza Order.exe
+C:\Users\richard.martins\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Pizza Order\obj\Debug\Pizza Order.pdb
+C:\Users\richard.martins\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Pizza Order\obj\Debug\Pizza Order.csproj.AssemblyReference.cache
+C:\Users\richard.martins\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Pizza Order\obj\Debug\Pizza Order.csproj.SuggestedBindingRedirects.cache
+C:\Users\richard.martins\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Pizza Order\bin\Debug\Pizza Order.exe.config
+C:\Users\richard.martins\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Pizza Order\bin\Debug\Pizza Order.exe
+C:\Users\richard.martins\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Pizza Order\bin\Debug\Pizza Order.pdb
+C:\Users\richard.martins\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Pizza Order\obj\Debug\Pizza_Order.frmPizza.resources
+C:\Users\richard.martins\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Pizza Order\obj\Debug\Pizza_Order.Properties.Resources.resources
+C:\Users\richard.martins\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Pizza Order\obj\Debug\Pizza Order.csproj.GenerateResource.cache
+C:\Users\richard.martins\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Pizza Order\obj\Debug\Pizza Order.csproj.CoreCompileInputs.cache
