@@ -1,4 +1,5 @@
-# AnotaPedidos (em andamento)
+# Pedidos para Pizzaria
+
 ## Desenvolvido para pizzarias simples com cadastro de clientes, e pedidos.
 
 ----
